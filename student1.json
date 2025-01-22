@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Ram",
+        "dept": "CSE"
+    },
+    {
+        "id": 2,
+        "name": "Ravi",
+        "dept": "CSE"
+    },
+    {
+        "id": 3,
+        "name": "Ajay",
+        "dept": "ECE"
+    },
+    {
+        "id": 4,
+        "name": "Jeeva",
+        "dept": "AIDS"
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 1,
+        "name": "Sudhir",
+        "age": 25,
+        "city": "Bangalore",
+        "amount": 1500
+    },
+    {
+        "id": 2,
+        "name": "Ram",
+        "age": 26,
+        "city": "Mumbai",
+        "amount": 1700
+    },
+    {
+        "id": 4,
+        "name": "Ajay",
+        "age": 23,
+        "city": "Coimbatore",
+        "amount": 1430
+    },
+    {
+        "id": 5,
+        "name": "John",
+        "age": 25,
+        "city": "New York",
+        "amount": 1500
+    }
+]
